@@ -146,11 +146,11 @@
 
 71. ``6.203`` **Æ** by ore_re [13899962042] [https://www.youtube.com/watch?v=Xuud2erIn9g]
 
-72. ``6.196`` **Devastated Industry** by ssgam_eR [14535618905] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=160]
+72. ``6.19`` **[WARP_OF.TIME]** by YukiSip_SUPR3M3 [14389613341] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3901]
 
-73. ``6.189`` **[WARP_OF.TIME]** by YukiSip_SUPR3M3 [14389613341] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3901]
+73. ``6.188`` **Zane V2** by its_ven1 [10587409362] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1747]
 
-74. ``6.187`` **Zane V2** by its_ven1 [10587409362] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1747]
+74. ``6.185`` **Devastated Industry** by ssgam_eR [14535618905] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=160]
 
 75. ``6.183`` **Ikarus** by EduardoSO [10252415638] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1692]
 

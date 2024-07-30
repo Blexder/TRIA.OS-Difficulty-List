@@ -148,15 +148,15 @@
 
 72. ``6.196`` **Devastated Industry** by ssgam_eR [14535618905] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=160]
 
-73. ``6.192`` **Aurelius** by Svilar [6966714293/aurelius] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1788]
+73. ``6.189`` **[WARP_OF.TIME]** by YukiSip_SUPR3M3 [14389613341] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3901]
 
-74. ``6.189`` **[WARP_OF.TIME]** by YukiSip_SUPR3M3 [14389613341] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3901]
+74. ``6.187`` **Zane V2** by its_ven1 [10587409362] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1747]
 
-75. ``6.187`` **Zane V2** by its_ven1 [10587409362] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1747]
+75. ``6.183`` **Ikarus** by EduardoSO [10252415638] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1692]
 
-76. ``6.17`` **Ikarus** by EduardoSO [10252415638] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1692]
+76. ``6.17`` **Unreal Reality** by nikitus2000 [8497317280] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=819]
 
-77. ``6.167`` **Unreal Reality** by nikitus2000 [8497317280] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=819]
+77. ``6.167`` **Aurelius** by Svilar [6966714293/aurelius] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1788]
 
 78. ``6.163`` **Aurelius Reimagined** by Zappy [12299381972] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1197]
 

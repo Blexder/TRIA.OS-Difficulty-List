@@ -76,9 +76,9 @@
 
 36. ``6.53`` **Solar** by fippy505 [10681810379] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=749]
 
-37. ``6.52`` **Cubic Ruins** by not_grif [7859838563] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3402]
+37. ``6.52`` **Phantasm** by SkullerySkuffling [7118747757] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2997]
 
-38. ``6.51`` **Phantasm** by SkullerySkuffling [7118747757] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2997]
+38. ``6.51`` **Cubic Ruins** by not_grif [7859838563] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3402] 
 
 39. ``6.49`` **Xion** by shaimoons [12324480067] [https://www.youtube.com/watch?v=dW_UuBHAAXo]
 

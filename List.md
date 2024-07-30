@@ -36,9 +36,9 @@
 
 16. ``6.76`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=fBUWn1LRjuU]
 
-17. ``6.71`` **Tempestuous Blizzard** by Zerix [11573213410] [https://www.youtube.com/watch?v=ZruAoI524Ac]
+17. ``6.75`` **Tempestuous Blizzard** by Zerix [11573213410] [https://www.youtube.com/watch?v=ZruAoI524Ac]
 
-18. ``6.70`` **Vivid** by Enszo [9953134578/vivid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4035]
+18. ``6.73`` **Vivid** by Enszo [9953134578/vivid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4035]
 
 19. ``6.69`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=-9LW8Vx-FHg]
 

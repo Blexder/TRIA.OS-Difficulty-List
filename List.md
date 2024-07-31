@@ -136,25 +136,25 @@
 
 66. ``6.24`` **Decayed Mineshaft** by TechnocraticAviation [6999475800] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2190]
 
-67. ``6.22`` **Mandragora 3.0** by alex28901 [14568900384] [https://www.youtube.com/watch?v=ZUFLs-8feM4]
+67. ``6.217`` **Cubic Mechanism** by MalachiLeapYear [13782217230] [https://www.youtube.com/watch?v=nF50EMHmBEA]
 
-68. ``6.21`` **Cubic Mechanism** by MalachiLeapYear [13782217230] [https://www.youtube.com/watch?v=nF50EMHmBEA]
+68. ``6.216`` **Crystalline Devastation** by CN08_ [9334559383] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=1087]
 
-69. ``6.209`` **Crystalline Devastation** by CN08_ [9334559383] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=1087]
+69. ``6.207`` **Interstellar Havoc** by InconsistentSolstice [9370191058] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1166]
 
-70. ``6.207`` **Interstellar Havoc** by InconsistentSolstice [9370191058] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1166]
+70. ``6.203`` **Æ** by ore_re [13899962042] [https://www.youtube.com/watch?v=Xuud2erIn9g]
 
-71. ``6.203`` **Æ** by ore_re [13899962042] [https://www.youtube.com/watch?v=Xuud2erIn9g]
+71. ``6.199`` **[WARP_OF.TIME]** by YukiSip_SUPR3M3 [14389613341] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3901]
 
-72. ``6.19`` **[WARP_OF.TIME]** by YukiSip_SUPR3M3 [14389613341] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3901]
+72. ``6.191`` **Zane V2** by its_ven1 [10587409362] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1747]
 
-73. ``6.188`` **Zane V2** by its_ven1 [10587409362] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1747]
+73. ``6.187`` **Devastated Industry** by ssgam_eR [14535618905] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=160]
 
-74. ``6.185`` **Devastated Industry** by ssgam_eR [14535618905] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=160]
+74. ``6.185`` **Unreal Reality** by nikitus2000 [8497317280] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=819]
 
-75. ``6.183`` **Ikarus** by EduardoSO [10252415638] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1692]
+75. ``6.181`` **Ikarus** by EduardoSO [10252415638] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1692] 
 
-76. ``6.17`` **Unreal Reality** by nikitus2000 [8497317280] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=819]
+76. ``6.17`` **Mandragora 3.0** by alex28901 [14568900384] [https://www.youtube.com/watch?v=ZUFLs-8feM4] 
 
 77. ``6.167`` **Aurelius** by Svilar [6966714293/aurelius] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1788]
 

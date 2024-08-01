@@ -100,7 +100,7 @@
 
 48. ``6.383`` **Electron Memories** by Ethan76167 [6801708781/em2] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2418]
 
-49. ``6.37`` **Apocolyptic Protocols** by aqua2power [9103438820] [https://www.youtube.com/watch?v=_R0KbANsrmk]
+49. ``6.37`` **Apocalyptic Protocols** by aqua2power [9103438820] [https://www.youtube.com/watch?v=_R0KbANsrmk]
 
 50. ``6.367`` **Golden Zephyr** by Elemental_geast [14183945889] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3222]
 

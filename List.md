@@ -30,19 +30,19 @@
 
 13. ``6.83`` **LAYERS** by Enszo, TWB_92 [8559494055/layers] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4912]
 
-14. ``6.80`` **[!] - Ascension to Heaven -** by MaxingPar [10482761852] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=973]
+14. ``6.78`` **Virus** by Rayhan [13914817715] [https://youtu.be/Aksg2Q2XMsw?feature=shared]
 
-15. ``6.78`` **Virus** by Rayhan [13914817715] [https://youtu.be/Aksg2Q2XMsw?feature=shared]
+15. ``6.76`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=fBUWn1LRjuU]
 
-16. ``6.76`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=fBUWn1LRjuU]
+16. ``6.75`` **Tempestuous Blizzard** by Zerix [11573213410] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4782]
 
-17. ``6.75`` **Tempestuous Blizzard** by Zerix [11573213410] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4782]
+17. ``6.73`` **Vivid** by Enszo [9953134578/vivid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4035]
 
-18. ``6.73`` **Vivid** by Enszo [9953134578/vivid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4035]
+18. ``6.69`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=-9LW8Vx-FHg]
 
-19. ``6.69`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=-9LW8Vx-FHg]
+19. ``6.68`` **Hard Reset** by Cybi [13229449398] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
 
-20. ``6.68`` **Hard Reset** by Cybi [13229449398] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
+20. ``6.67`` **[!] - Ascension to Heaven -** by MaxingPar [10482761852] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=973]
 
 21. ``6.66`` **The Cave** by kanokpoldos_0987 [11482067821] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1451]
 

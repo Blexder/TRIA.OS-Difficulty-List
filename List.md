@@ -196,9 +196,9 @@
 
 96. ``6.028`` **Antares** by THE MODIFIED [12352959713] [https://www.youtube.com/watch?v=6-Fm5HXY71E]
 
-97. ``6.027`` **Blockfire Heights** by MalachiLeapYear [14818063563] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3093]
+97. ``6.027`` **Industrialized Heat** by The Industrialized Team [11767276048] [https://youtu.be/pKn2HOT_06g?feature=shared&t=471]
 
-98. ``6.023`` **Industrialized Heat** by The Industrialized Team [11767276048] [https://youtu.be/pKn2HOT_06g?feature=shared&t=471]
+98. ``6.023`` **Blockfire Heights** by MalachiLeapYear [14818063563] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3093] 
 
 99. ``6.021`` **Vell** by shaimoons [11747157443] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=545]
 

@@ -48,9 +48,9 @@
 
 22. ``6.64`` **Halcyon || Orange Sector 2.0** by Literal_Cow [9293714116] [https://www.youtube.com/watch?v=lnufzxl7BBw]
 
-23. ``6.63`` **Overflowing Industry** by Energy Team [10742566948] [https://www.youtube.com/watch?v=0SKmlLfJhig]
+23. ``6.63`` **Overflowing Industry** by Energy Team [10742566948] [https://www.youtube.com/watch?v=TXXfe_smho4]
 
-24. ``6.62`` **[!] Hyxla Factory** by AlexGamerPro347 [10263934212] [https://www.youtube.com/watch?v=TXXfe_smho4]
+24. ``6.62`` **[!] Hyxla Factory** by AlexGamerPro347 [10263934212] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
 
 25. ``6.61`` **Beyond** by its_ven1 [10652098390] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=656]
 

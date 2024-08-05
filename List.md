@@ -54,9 +54,9 @@
 
 25. ``6.61`` **Beyond** by its_ven1 [10652098390] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=656]
 
-26. ``6.598`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652] 
+26. ``6.598`` **BOLTZONE: Industrial District 88** by dripperoniz [17305562799/boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
 
-27. ``6.593`` **BOLTZONE: Industrial District 88** by dripperoniz [17305562799/boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
+27. ``6.595`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652] 
 
 28. ``6.58`` **White Void** by CN08_ [13684573360] [https://www.youtube.com/watch?v=bvZcKahBGwQ]
 

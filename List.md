@@ -86,7 +86,7 @@
 
 41. ``6.45`` **Fractured Memories** by ALEXLS8 [13706874019] [https://www.youtube.com/watch?v=m0OGZO3rLFQ]
 
-42. ``6.43`` **Anhedonia** by MaxingPar [16013967414] [the video for this map got nuked lmfao!!!!!!!!!!!!!!]
+42. ``6.43`` **Anhedonia_PAST** by MaxingPar [16013967414] [https://youtu.be/GRKKlsO12BU]
 
 43. ``6.41`` **Asthenosphere** by TechnocraticAviation [5101052732] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2789]
 

@@ -40,7 +40,7 @@
 
 18. ``6.69`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=-9LW8Vx-FHg]
 
-19. ``6.68`` **Hard Reset** by Cybi [13229449398] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
+19. ``6.68`` **H@Rd R3Set // V2.45** by Cybi [13229449398] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
 
 20. ``6.67`` **[!] - Ascension to Heaven -** by MaxingPar [10482761852] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=973]
 

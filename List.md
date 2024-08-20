@@ -182,7 +182,7 @@
 
 89. ``6.06`` **hue0** by RaxdiiGames [14754568933] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1870]
 
-90. ``6.05`` **Tria: Resurgo (Unofficial / Fanmade Remake)** by MidnightsCrucible [15544621599] [https://www.youtube.com/watch?v=16yGApFdtOQ]
+90. ``6.05`` **Tria : Resurgo** by MidnightsCrucible [15544621599] [https://www.youtube.com/watch?v=16yGApFdtOQ]
 
 91. ``6.047`` **[MATRIX]** by Link_Cable [8464396099] [https://youtu.be/pKn2HOT_06g?feature=shared&t=173]
 

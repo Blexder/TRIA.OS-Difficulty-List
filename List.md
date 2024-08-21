@@ -158,7 +158,7 @@
 
 77. ``6.167`` **Aurelius** by Svilar [6966714293/aurelius] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1788]
 
-78. ``6.163`` **Aurelius Reimagined** by Zappy [12299381972] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1197]
+78. ``6.163`` **Aurelius: REIMAGINED** by Zappy [12299381972] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1197]
 
 79. ``6.161`` **Unstable Presidium** by FabricioPF [10582680336] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=429]
 

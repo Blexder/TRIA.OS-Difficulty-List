@@ -8,9 +8,9 @@
 
 3. ``7.32`` **Ascension to Heaven** by S_D1am0nd [15333842734] [https://www.youtube.com/watch?v=milgbW9nBEI]
 
-4. ``7.16`` **Hyper Speed** by Marchionne, alex28901 & MalachiLeapYear [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
+4. ``7.14`` **Hyper Speed** by Marchionne, alex28901 & MalachiLeapYear [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
 
-5. ``7.11`` **EndZone** by Nightlife Devs [2734427873] [https://youtu.be/pKn2HOT_06g?feature=shared&t=5644]
+5. ``7.08`` **EndZone** by Nightlife Devs [2734427873] [https://youtu.be/pKn2HOT_06g?feature=shared&t=5644]
 
 6. ``7.04`` **Agitato 3.0** by alex28901 [14568951404] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
 

@@ -54,23 +54,23 @@
 
 25. ``6.61`` **Beyond** by its_ven1 [10652098390] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=656]
 
-26. ``6.598`` **BOLTZONE: Industrial District 88** by dripperoniz [17305562799/boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
+26. ``6.59`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652] 
 
-27. ``6.595`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652] 
+27. ``6.58`` **White Void** by CN08_ [13684573360] [https://www.youtube.com/watch?v=bvZcKahBGwQ]
 
-28. ``6.58`` **White Void** by CN08_ [13684573360] [https://www.youtube.com/watch?v=bvZcKahBGwQ]
+28. ``6.57`` **Magmatic Cove** by XxgamerkidbroxX [12321127116] [https://www.youtube.com/watch?v=Ez02FkG2dGA]
 
-29. ``6.57`` **Magmatic Cove** by XxgamerkidbroxX [12321127116] [https://www.youtube.com/watch?v=Ez02FkG2dGA]
+29. ``6.56`` **Drainpipe Stream** by WhyDoIHaveNoUserName [10680367555] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3771]
 
-30. ``6.56`` **Drainpipe Stream** by WhyDoIHaveNoUserName [10680367555] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3771]
+30. ``6.557`` **Crystallized** by CN08_ [10225315067] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3518]
 
-31. ``6.557`` **Crystallized** by CN08_ [10225315067] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3518]
+31. ``6.556`` **Thanatos V2** by ssgam_eR [13638021080] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=438]
 
-32. ``6.555`` **Thanatos V2** by ssgam_eR [13638021080] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=438]
+32. ``6.554`` **BOLTZONE: Industrial District 88** by dripperoniz [17305562799/boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
 
-33.  ``6.553`` **Yatagarasu** by EpicaLanced [12373259837] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3217]
+33. ``6.553`` **Yatagarasu** by EpicaLanced [12373259837] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3217]
 
-34.  ``6.549`` **GameBoy** by Co_rdinatE [16289500761] [https://www.youtube.com/watch?v=-7bxRZzsKLA]
+34. ``6.549`` **GameBoy** by Co_rdinatE [16289500761] [https://www.youtube.com/watch?v=-7bxRZzsKLA]
 
 35. ``6.545`` **Cyber Cypher** by its_ven1 [11850893033] [https://www.youtube.com/watch?v=6q77x3HHPZo]
 

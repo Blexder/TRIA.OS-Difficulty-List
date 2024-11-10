@@ -48,21 +48,21 @@
 
 22. ``6.64`` **Halcyon || Orange Sector 2.0** by Literal_Cow [9293714116] [https://www.youtube.com/watch?v=lnufzxl7BBw]
 
-23. ``6.63`` **Overflowing Industry** by Energy Team [10742566948] [https://www.youtube.com/watch?v=TXXfe_smho4]
+23. ``6.63`` **[!] Hyxla Factory** by AlexGamerPro347 [10263934212] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
 
-24. ``6.62`` **[!] Hyxla Factory** by AlexGamerPro347 [10263934212] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
+24. ``6.62`` **Overflowing Industry** by Energy Team [10742566948] [https://www.youtube.com/watch?v=TXXfe_smho4] 
 
 25. ``6.61`` **Beyond** by its_ven1 [10652098390] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=656]
 
-26. ``6.59`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652] 
+26. ``6.598`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652]
 
-27. ``6.58`` **White Void** by CN08_ [13684573360] [https://www.youtube.com/watch?v=bvZcKahBGwQ]
+27. ``6.595`` **BOLTZONE: Industrial District 88** by dripperoniz [17305562799/boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
 
-28. ``6.57`` **Magmatic Cove** by XxgamerkidbroxX [12321127116] [https://www.youtube.com/watch?v=Ez02FkG2dGA]
+28. ``6.58`` **White Void** by CN08_ [13684573360] [https://www.youtube.com/watch?v=bvZcKahBGwQ]
 
-29. ``6.56`` **Drainpipe Stream** by WhyDoIHaveNoUserName [10680367555] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3771]
+29. ``6.57`` **Magmatic Cove** by XxgamerkidbroxX [12321127116] [https://www.youtube.com/watch?v=Ez02FkG2dGA]
 
-30. ``6.558`` **BOLTZONE: Industrial District 88** by dripperoniz [17305562799/boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
+30. ``6.56`` **Drainpipe Stream** by WhyDoIHaveNoUserName [10680367555] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3771]
 
 31. ``6.557`` **Crystallized** by CN08_ [10225315067] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3518]
 

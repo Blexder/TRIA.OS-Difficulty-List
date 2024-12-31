@@ -38,188 +38,190 @@
 
 17. ``6.73`` **Vivid** by Enszo [9953134578/vivid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4035]
 
-18. ``6.69`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=-9LW8Vx-FHg]
+18. ``6.71`` **NightTheater** by MaxingPar [itggx] [https://youtu.be/kAxdK-GsVzA]
 
-19. ``6.68`` **H@Rd R3Set // V2.45** by Cybi [13229449398] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
+19. ``6.69`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=-9LW8Vx-FHg]
 
-20. ``6.67`` **[!] - Ascension to Heaven -** by MaxingPar [10482761852] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=973]
+20. ``6.68`` **H@Rd R3Set // V2.45** by Cybi [13229449398] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
 
-21. ``6.66`` **The Cave** by kanokpoldos_0987 [11482067821] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1451]
+21. ``6.67`` **[!] - Ascension to Heaven -** by MaxingPar [10482761852] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=973]
 
-22. ``6.64`` **Halcyon || Orange Sector 2.0** by Literal_Cow [9293714116] [https://www.youtube.com/watch?v=lnufzxl7BBw]
+22. ``6.66`` **The Cave** by kanokpoldos_0987 [11482067821] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1451]
 
-23. ``6.63`` **[!] Hyxla Factory** by AlexGamerPro347 [10263934212] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
+23. ``6.64`` **Halcyon || Orange Sector 2.0** by Literal_Cow [9293714116] [https://www.youtube.com/watch?v=lnufzxl7BBw]
 
-24. ``6.62`` **Overflowing Industry** by Energy Team [10742566948] [https://www.youtube.com/watch?v=TXXfe_smho4] 
+24. ``6.63`` **[!] Hyxla Factory** by AlexGamerPro347 [10263934212] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
 
-25. ``6.61`` **Beyond** by its_ven1 [10652098390] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=656]
+25. ``6.62`` **Overflowing Industry** by Energy Team [10742566948] [https://www.youtube.com/watch?v=TXXfe_smho4] 
 
-26. ``6.598`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652]
+26. ``6.61`` **Beyond** by its_ven1 [10652098390] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=656]
 
-27. ``6.595`` **BOLTZONE: Industrial District 88** by dripperoniz [17305562799/boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
+27. ``6.598`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652]
 
-28. ``6.58`` **White Void** by CN08_ [13684573360] [https://www.youtube.com/watch?v=bvZcKahBGwQ]
+28. ``6.595`` **BOLTZONE: Industrial District 88** by dripperoniz [17305562799/boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
 
-29. ``6.57`` **Magmatic Cove** by XxgamerkidbroxX [12321127116] [https://www.youtube.com/watch?v=Ez02FkG2dGA]
+29. ``6.58`` **White Void** by CN08_ [13684573360] [https://www.youtube.com/watch?v=bvZcKahBGwQ]
 
-30. ``6.56`` **Drainpipe Stream** by WhyDoIHaveNoUserName [10680367555] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3771]
+30. ``6.57`` **Magmatic Cove** by XxgamerkidbroxX [12321127116] [https://www.youtube.com/watch?v=Ez02FkG2dGA]
 
-31. ``6.557`` **Crystallized** by CN08_ [10225315067] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3518]
+31. ``6.56`` **Drainpipe Stream** by WhyDoIHaveNoUserName [10680367555] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3771]
 
-32. ``6.556`` **Thanatos V2** by ssgam_eR [13638021080] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=438]
+32. ``6.557`` **Crystallized** by CN08_ [10225315067] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3518]
 
-33. ``6.553`` **Yatagarasu** by EpicaLanced [12373259837] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3217]
+33. ``6.556`` **Thanatos V2** by ssgam_eR [13638021080] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=438]
 
-34. ``6.549`` **GameBoy** by Co_rdinatE [16289500761] [https://www.youtube.com/watch?v=-7bxRZzsKLA]
+34. ``6.553`` **Yatagarasu** by EpicaLanced [12373259837] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3217]
 
-35. ``6.545`` **Cyber Cypher** by its_ven1 [11850893033] [https://www.youtube.com/watch?v=6q77x3HHPZo]
+35. ``6.549`` **GameBoy** by Co_rdinatE [16289500761] [https://www.youtube.com/watch?v=-7bxRZzsKLA]
 
-36. ``6.53`` **Solar** by fippy505 [10681810379] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=749]
+36. ``6.545`` **Cyber Cypher** by its_ven1 [11850893033] [https://www.youtube.com/watch?v=6q77x3HHPZo]
 
-37. ``6.52`` **Phantasm** by SkullerySkuffling [7118747757] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2997] 
+37. ``6.53`` **Solar** by fippy505 [10681810379] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=749]
 
-38. ``6.51`` **Cubic Ruins** by not_grif [7859838563] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3402]
+38. ``6.52`` **Phantasm** by SkullerySkuffling [7118747757] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2997] 
 
-39. ``6.49`` **Xion** by shaimoons [12324480067] [https://www.youtube.com/watch?v=dW_UuBHAAXo]
+39. ``6.51`` **Cubic Ruins** by not_grif [7859838563] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3402]
 
-40. ``6.48`` **The Wood** by kanokpoldos_0987 [12129198769] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=17]
+40. ``6.49`` **Xion** by shaimoons [12324480067] [https://www.youtube.com/watch?v=dW_UuBHAAXo]
 
-41. ``6.45`` **Fractured Memories** by ALEXLS8 [13706874019] [https://www.youtube.com/watch?v=m0OGZO3rLFQ]
+41. ``6.48`` **The Wood** by kanokpoldos_0987 [12129198769] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=17]
 
-42. ``6.43`` **Anhedonia_PAST** by MaxingPar [16013967414] [https://youtu.be/GRKKlsO12BU]
+42. ``6.45`` **Fractured Memories** by ALEXLS8 [13706874019] [https://www.youtube.com/watch?v=m0OGZO3rLFQ]
 
-43. ``6.41`` **Asthenosphere** by TechnocraticAviation [5101052732] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2789]
+43. ``6.43`` **Anhedonia_PAST** by MaxingPar [16013967414] [https://youtu.be/GRKKlsO12BU]
 
-44. ``6.40`` **The Escape : Nuclear Toxicity** by ivosander [6937092299] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=152]
+44. ``6.41`` **Asthenosphere** by TechnocraticAviation [5101052732] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2789]
 
-45. ``6.397`` **M.A.L.** by MalachiLeapYear [14255763064] [https://www.youtube.com/watch?v=rixqZ1v2Xto]
+45. ``6.40`` **The Escape : Nuclear Toxicity** by ivosander [6937092299] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=152]
 
-46. ``6.394`` **Rooms** by The Rooms Official Devs [9766018893] [https://www.youtube.com/watch?v=A_oGAPVIveE]
+46. ``6.397`` **M.A.L.** by MalachiLeapYear [14255763064] [https://www.youtube.com/watch?v=rixqZ1v2Xto]
 
-47. ``6.388`` **Dystopia** by Enszo [3300287803/dystopia] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2641]
+47. ``6.394`` **Rooms** by The Rooms Official Devs [9766018893] [https://www.youtube.com/watch?v=A_oGAPVIveE]
 
-48. ``6.383`` **Electron Memories** by Ethan76167 [6801708781/em2] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2418]
+48. ``6.388`` **Dystopia** by Enszo [3300287803/dystopia] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2641]
 
-49. ``6.37`` **Apocalyptic Protocols** by aqua2power [9103438820] [https://www.youtube.com/watch?v=_R0KbANsrmk]
+49. ``6.383`` **Electron Memories** by Ethan76167 [6801708781/em2] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2418]
 
-50. ``6.367`` **Golden Zephyr** by Elemental_geast [14183945889] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3222]
+50. ``6.37`` **Apocalyptic Protocols** by aqua2power [9103438820] [https://www.youtube.com/watch?v=_R0KbANsrmk]
 
-51. ``6.365`` **Malicious Mechanics** by MalachiLeapYear [10704586333] [https://www.youtube.com/watch?v=VFHDbY1crwY]
+51. ``6.367`` **Golden Zephyr** by Elemental_geast [14183945889] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3222]
 
-52. ``6.346`` **MineStrike** by aqua2power [6984901305] [https://youtu.be/XX0bqPV7gts?feature=shared&t=126]
+52. ``6.365`` **Malicious Mechanics** by MalachiLeapYear [10704586333] [https://www.youtube.com/watch?v=VFHDbY1crwY]
 
-53. ``6.342`` **Lunatic Mines** by aqua2power [13852263084] [https://www.youtube.com/watch?v=XX0bqPV7gts]
+53. ``6.346`` **MineStrike** by aqua2power [6984901305] [https://youtu.be/XX0bqPV7gts?feature=shared&t=126]
 
-54. ``6.336`` **Complex Sideline** by its_ven1 [10749437450] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=334]
+54. ``6.342`` **Lunatic Mines** by aqua2power [13852263084] [https://www.youtube.com/watch?v=XX0bqPV7gts]
 
-55. ``6.332`` **Emergency Exit** by RaxdiiGames [7845448691] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2045]
+55. ``6.336`` **Complex Sideline** by its_ven1 [10749437450] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=334]
 
-56. ``6.331`` **Alderophere** by poataday134 [9867454197] [https://www.youtube.com/watch?v=79sZG-LDVJo]
+56. ``6.332`` **Emergency Exit** by RaxdiiGames [7845448691] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2045]
 
-57. ``6.32`` **Nuclear Radiation Meltdown** by ALEXLS8 [9417016366] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=565]
+57. ``6.331`` **Alderophere** by poataday134 [9867454197] [https://www.youtube.com/watch?v=79sZG-LDVJo]
 
-58. ``6.31`` **Aurithus** by xCoolioPlayz619x [14079692937] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=2912]
+58. ``6.32`` **Nuclear Radiation Meltdown** by ALEXLS8 [9417016366] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=565]
 
-59. ``6.307`` **Ominosity** by TechnocraticAviation [8237260520] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1307]
+59. ``6.31`` **Aurithus** by xCoolioPlayz619x [14079692937] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=2912]
 
-60. ``6.29`` **Interminence** by THE MODIFIED [11552479905] [https://www.youtube.com/watch?v=zNZHrSKq4Ek]
+60. ``6.307`` **Ominosity** by TechnocraticAviation [8237260520] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1307]
 
-61. ``6.288`` **Sector-Alpha** by ramzfgg [8217249980] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2319]
+61. ``6.29`` **Interminence** by THE MODIFIED [11552479905] [https://www.youtube.com/watch?v=zNZHrSKq4Ek]
 
-62. ``6.281`` **Epsilon** by its_ven1 [10810839544] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=282]
+62. ``6.288`` **Sector-Alpha** by ramzfgg [8217249980] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2319]
 
-63. ``6.27`` **Atreux V1.5** by ControllerKazz [12309868074] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=291]
+63. ``6.281`` **Epsilon** by its_ven1 [10810839544] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=282]
 
-64. ``6.26`` **Gotten** by BetaDev9 [12189178798] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=982]
+64. ``6.27`` **Atreux V1.5** by ControllerKazz [12309868074] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=291]
 
-65. ``6.25`` **Electrical Malfunction** by Ethan76167 [6618228591/em1] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1903]
+65. ``6.26`` **Gotten** by BetaDev9 [12189178798] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=982]
 
-66. ``6.24`` **Decayed Mineshaft** by TechnocraticAviation [6999475800] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2190]
+66. ``6.25`` **Electrical Malfunction** by Ethan76167 [6618228591/em1] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1903]
 
-67. ``6.217`` **Cubic Mechanism** by MalachiLeapYear [13782217230] [https://www.youtube.com/watch?v=nF50EMHmBEA]
+67. ``6.24`` **Decayed Mineshaft** by TechnocraticAviation [6999475800] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2190]
 
-68. ``6.216`` **Crystalline Devastation** by CN08_ [9334559383] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=1087]
+68. ``6.217`` **Cubic Mechanism** by MalachiLeapYear [13782217230] [https://www.youtube.com/watch?v=nF50EMHmBEA]
 
-69. ``6.207`` **Interstellar Havoc** by InconsistentSolstice [9370191058] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1166]
+69. ``6.216`` **Crystalline Devastation** by CN08_ [9334559383] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=1087]
 
-70. ``6.203`` **Æ** by ore_re [13899962042] [https://www.youtube.com/watch?v=Xuud2erIn9g]
+70. ``6.207`` **Interstellar Havoc** by InconsistentSolstice [9370191058] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1166]
 
-71. ``6.199`` **[WARP_OF.TIME]** by YukiSip_SUPR3M3 [14389613341] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3901]
+71. ``6.203`` **Æ** by ore_re [13899962042] [https://www.youtube.com/watch?v=Xuud2erIn9g]
 
-72. ``6.191`` **Zane V2** by its_ven1 [10587409362] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1747]
+72. ``6.199`` **[WARP_OF.TIME]** by YukiSip_SUPR3M3 [14389613341] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3901]
 
-73. ``6.187`` **Devastated Industry** by ssgam_eR [14535618905] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=160]
+73. ``6.191`` **Zane V2** by its_ven1 [10587409362] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1747]
 
-74. ``6.185`` **Unreal Reality** by nikitus2000 [8497317280] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=819]
+74. ``6.187`` **Devastated Industry** by ssgam_eR [14535618905] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=160]
 
-75. ``6.181`` **Ikarus** by EduardoSO [10252415638] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1692] 
+75. ``6.185`` **Unreal Reality** by nikitus2000 [8497317280] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=819]
 
-76. ``6.17`` **Mandragora 3.0** by alex28901 [14568900384] [https://www.youtube.com/watch?v=ZUFLs-8feM4] 
+76. ``6.181`` **Ikarus** by EduardoSO [10252415638] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1692] 
 
-77. ``6.167`` **Aurelius** by Svilar [6966714293/aurelius] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1788]
+77. ``6.17`` **Mandragora 3.0** by alex28901 [14568900384] [https://www.youtube.com/watch?v=ZUFLs-8feM4] 
 
-78. ``6.163`` **Aurelius: REIMAGINED** by Zappy [12299381972] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1197]
+78. ``6.167`` **Aurelius** by Svilar [6966714293/aurelius] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1788]
 
-79. ``6.161`` **Unstable Presidium** by FabricioPF [10582680336] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=429]
+79. ``6.163`` **Aurelius: REIMAGINED** by Zappy [12299381972] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1197]
 
-80. ``6.158`` **Monoscape** by Enszo [4510155155/mono2] [https://youtu.be/pKn2HOT_06g?feature=shared&t=942]
+80. ``6.161`` **Unstable Presidium** by FabricioPF [10582680336] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=429]
 
-81. ``6.154`` **Cloudburst** by ifurreadingthisun00b [14095922159] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=1419]
+81. ``6.158`` **Monoscape** by Enszo [4510155155/mono2] [https://youtu.be/pKn2HOT_06g?feature=shared&t=942]
 
-82. ``6.14`` **Corroded Industries** by Robinpika87 [13591927482] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=157]
+82. ``6.154`` **Cloudburst** by ifurreadingthisun00b [14095922159] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=1419]
 
-83. ``6.12`` **Le Calme** by Rayhan [10747064552] [https://youtu.be/pKn2HOT_06g?feature=shared&t=579]
+83. ``6.14`` **Corroded Industries** by Robinpika87 [13591927482] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=157]
 
-84. ``6.11`` **Monovoid** by Enszo [8439110516/mono3] [https://youtu.be/pKn2HOT_06g?feature=shared&t=302]
+84. ``6.12`` **Le Calme** by Rayhan [10747064552] [https://youtu.be/pKn2HOT_06g?feature=shared&t=579]
 
-85. ``6.10`` **Crystalize Industry** by KitsunTori [wvdlq] [https://youtu.be/frOP-YDeHdk]
+85. ``6.11`` **Monovoid** by Enszo [8439110516/mono3] [https://youtu.be/pKn2HOT_06g?feature=shared&t=302]
 
-86. ``6.09`` **Red-Sector Facility** sakuraki_jj [10751567935] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=2091]
+86. ``6.10`` **Crystalize Industry** by KitsunTori [wvdlq] [https://youtu.be/frOP-YDeHdk]
 
-87. ``6.08`` **Cubic Memories** by MalachiLeapYear [16961389196] [https://www.youtube.com/watch?v=db2EL7aXeRM]
+87. ``6.09`` **Red-Sector Facility** sakuraki_jj [10751567935] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=2091]
 
-88. ``6.07`` **Ladders** by WhyDoIHaveNoUserName [11749525102] [https://www.youtube.com/watch?v=LNpO00hVYyE]
+88. ``6.08`` **Cubic Memories** by MalachiLeapYear [16961389196] [https://www.youtube.com/watch?v=db2EL7aXeRM]
 
-89. ``6.06`` **hue0** by RaxdiiGames [14754568933] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1870]
+89. ``6.07`` **Ladders** by WhyDoIHaveNoUserName [11749525102] [https://www.youtube.com/watch?v=LNpO00hVYyE]
 
-90. ``6.05`` **Tria : Resurgo** by MidnightsCrucible [15544621599] [https://www.youtube.com/watch?v=16yGApFdtOQ]
+90. ``6.06`` **hue0** by RaxdiiGames [14754568933] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1870]
 
-91. ``6.047`` **[MATRIX]** by Link_Cable [8464396099] [https://youtu.be/pKn2HOT_06g?feature=shared&t=173]
+91. ``6.05`` **Tria : Resurgo** by MidnightsCrucible [15544621599] [https://www.youtube.com/watch?v=16yGApFdtOQ]
 
-92. ``6.045`` **The Void** by Svilar [4046421693/thevoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=703]
+92. ``6.047`` **[MATRIX]** by Link_Cable [8464396099] [https://youtu.be/pKn2HOT_06g?feature=shared&t=173]
 
-93. ``6.042`` **Hexascape** by MADB0SS [8828365779] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3342]
+93. ``6.045`` **The Void** by Svilar [4046421693/thevoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=703]
 
-94. ``6.041`` **Perpetual Shade** by anormalminer [12189709233] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=635]
+94. ``6.042`` **Hexascape** by MADB0SS [8828365779] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3342]
 
-95. ``6.035`` **Locus** by XxgamerkidbroxX [11678381718] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=30]
+95. ``6.041`` **Perpetual Shade** by anormalminer [12189709233] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=635]
 
-96. ``6.031`` **Industrial Hours** by TechnocraticAviation [8468182476] [https://www.youtube.com/watch?v=_vM4NsM7HR8]
+96. ``6.035`` **Locus** by XxgamerkidbroxX [11678381718] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=30]
 
-97. ``6.028`` **Antares** by THE MODIFIED [12352959713] [https://www.youtube.com/watch?v=6-Fm5HXY71E]
+97. ``6.031`` **Industrial Hours** by TechnocraticAviation [8468182476] [https://www.youtube.com/watch?v=_vM4NsM7HR8]
 
-98. ``6.027`` **Industrialized Heat** by The Industrialized Team [11767276048] [https://youtu.be/pKn2HOT_06g?feature=shared&t=471]
+98. ``6.028`` **Antares** by THE MODIFIED [12352959713] [https://www.youtube.com/watch?v=6-Fm5HXY71E]
 
-99. ``6.023`` **Blockfire Heights** by MalachiLeapYear [14818063563] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3093] 
+99. ``6.027`` **Industrialized Heat** by The Industrialized Team [11767276048] [https://youtu.be/pKn2HOT_06g?feature=shared&t=471]
 
-100. ``6.021`` **Vell** by shaimoons [11747157443] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=545]
+100. ``6.023`` **Blockfire Heights** by MalachiLeapYear [14818063563] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3093] 
 
-101. ``6.016`` **Hypogean** by Dogeiified [10666368274] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1989]
+101. ``6.021`` **Vell** by shaimoons [11747157443] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=545]
 
-102. ``6.013`` **Pixel Madness** by ALEXLS8 [14116175851] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3709]
+102. ``6.016`` **Hypogean** by Dogeiified [10666368274] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1989]
 
-103. ``6.012`` **Stardust Region** by ControllerKazz [14079043605] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3797]
+103. ``6.013`` **Pixel Madness** by ALEXLS8 [14116175851] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3709]
 
-104. ``6.011`` **Cyber-Wave** by WhyDoIHaveNoUserName [10587406730] [https://www.youtube.com/watch?v=y__Lg-KVv0c]
+104. ``6.012`` **Stardust Region** by ControllerKazz [14079043605] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3797]
 
-105. ``6.009`` **Vectron** by tower_mites, shaimoons [9166263860] [https://www.youtube.com/watch?v=_QeZlkLb9C4]
+105. ``6.011`` **Cyber-Wave** by WhyDoIHaveNoUserName [10587406730] [https://www.youtube.com/watch?v=y__Lg-KVv0c]
 
-106. ``6.005`` **Narurith** by BrayanRaposa [10542276214] [https://youtu.be/Cg5gUWzgdbw?feature=shared&t=1826]
+106. ``6.009`` **Vectron** by tower_mites, shaimoons [9166263860] [https://www.youtube.com/watch?v=_QeZlkLb9C4]
 
-107. ``6.004`` **Mythedral** by Dzrol [14193849472] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3600]
+107. ``6.005`` **Narurith** by BrayanRaposa [10542276214] [https://youtu.be/Cg5gUWzgdbw?feature=shared&t=1826]
 
-108. ``6.002`` **7PM** by arnut_2020 [14081136921] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=1216]
+108. ``6.004`` **Mythedral** by Dzrol [14193849472] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3600]
 
-109. ``6.000`` **Crimson Castle** by Enszo [6661054375/crimsoncastle] [https://youtu.be/pKn2HOT_06g?feature=shared&t=19]
+109. ``6.002`` **7PM** by arnut_2020 [14081136921] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=1216]
+
+110. ``6.000`` **Crimson Castle** by Enszo [6661054375/crimsoncastle] [https://youtu.be/pKn2HOT_06g?feature=shared&t=19]
 
 > **List forked from Ethan76167's TRIA.os Difficulty List**

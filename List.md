@@ -222,8 +222,6 @@
 
 109. ``6.004`` **Mythedral** by Dzrol [mythedral] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3600]
 
-110. ``6.002`` **7PM** by arnut_2020 [xqawg] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=1216]
-
-111. ``6.000`` **Crimson Castle** by Enszo [crimsoncastle] [https://youtu.be/pKn2HOT_06g?feature=shared&t=19]
+110. ``6.000`` **Crimson Castle** by Enszo [crimsoncastle] [https://youtu.be/pKn2HOT_06g?feature=shared&t=19]
 
 > **List forked from Ethan76167's TRIA.os Difficulty List**

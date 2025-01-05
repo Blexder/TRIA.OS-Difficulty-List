@@ -12,9 +12,9 @@
 
 5. ``7.13`` **Asterios Legacy** by S_D1am0nd [ztczm] [https://youtu.be/jBRnuFRWH_c]
 
-6. ``7.09`` **EndZone** by Nightlife Devs [lqcgs] [https://youtu.be/pKn2HOT_06g?feature=shared&t=5644]
+6. ``7.07`` **EndZone** by Nightlife Devs [lqcgs] [https://youtu.be/pKn2HOT_06g?feature=shared&t=5644]
 
-7. ``7.04`` **Agitato 3.0** by alex28901 [mvnyv] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
+7. ``7.03`` **Agitato 3.0** by alex28901 [mvnyv] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
 
 8. ``7.01`` **Cubic Showdown** by MalachiLeapYear [aheja] [https://www.youtube.com/watch?v=KxKd-5tRz3o]
 

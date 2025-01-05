@@ -10,13 +10,15 @@
 
 4. ``7.16`` **Hyper Speed** by Marchionne, alex28901 & MalachiLeapYear [hmfaf] [https://www.youtube.com/watch?v=p3FuGndl5bM]
 
-5. ``7.09`` **EndZone** by Nightlife Devs [lqcgs] [https://youtu.be/pKn2HOT_06g?feature=shared&t=5644]
+5. ``7.13`` **Asterios Legacy** by S_D1am0nd [ztczm] [https://youtu.be/jBRnuFRWH_c]
 
-6. ``7.04`` **Agitato 3.0** by alex28901 [mvnyv] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
+6. ``7.09`` **EndZone** by Nightlife Devs [lqcgs] [https://youtu.be/pKn2HOT_06g?feature=shared&t=5644]
 
-7. ``7.01`` **Cubic Showdown** by MalachiLeapYear [aheja] [https://www.youtube.com/watch?v=KxKd-5tRz3o]
+7. ``7.04`` **Agitato 3.0** by alex28901 [mvnyv] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
 
-8. ``7.00`` **Nos Astra** by Ethan76167 [nos] [https://youtu.be/pKn2HOT_06g?feature=shared&t=5070]
+8. ``7.01`` **Cubic Showdown** by MalachiLeapYear [aheja] [https://www.youtube.com/watch?v=KxKd-5tRz3o]
+
+9. ``7.00`` **Nos Astra** by Ethan76167 [nos] [https://youtu.be/pKn2HOT_06g?feature=shared&t=5070]
 
 > **Divine**
 

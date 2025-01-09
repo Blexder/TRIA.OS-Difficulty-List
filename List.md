@@ -10,7 +10,7 @@
 
 4. ``7.16`` **Hyper Speed** by Marchionne, alex28901 & MalachiLeapYear [hmfaf] [https://www.youtube.com/watch?v=p3FuGndl5bM]
 
-5. ``7.15`` **Asterios Legacy** by S_D1am0nd [ztczm] [https://youtu.be/jBRnuFRWH_c]
+5. ``7.13`` **Asterios Legacy** by S_D1am0nd [ztczm] [https://youtu.be/jBRnuFRWH_c]
 
 6. ``7.07`` **EndZone** by Nightlife Devs [lqcgs] [https://youtu.be/pKn2HOT_06g?feature=shared&t=5644]
 

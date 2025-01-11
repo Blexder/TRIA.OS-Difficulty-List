@@ -34,27 +34,27 @@
 
 14. ``6.78`` **Virus** by Rayhan [hrgow] [https://youtu.be/Aksg2Q2XMsw?feature=shared]
 
-15. ``6.76`` **Kneeling Shore** by tac_taillike [kneeling] [https://www.youtube.com/watch?v=fBUWn1LRjuU]
+15. ``6.77`` **Brick Yellow** by robloxpies [gpuju] [https://youtu.be/e2YvIr_5tS8]
 
-16. ``6.75`` **Tempestuous Blizzard** by Zerix [gtgnk] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4782]
+16. ``6.76`` **Kneeling Shore** by tac_taillike [kneeling] [https://www.youtube.com/watch?v=fBUWn1LRjuU]
 
-17. ``6.73`` **Vivid** by Enszo [vivid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4035]
+17. ``6.75`` **Tempestuous Blizzard** by Zerix [gtgnk] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4782]
 
-18. ``6.71`` **NightTheater** by MaxingPar [itggx] [https://youtu.be/kAxdK-GsVzA]
+18. ``6.73`` **Vivid** by Enszo [vivid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4035]
 
-19. ``6.69`` **Arcturus** by ALEXLS8 [tkyhn] [https://www.youtube.com/watch?v=-9LW8Vx-FHg]
+19. ``6.71`` **NightTheater** by MaxingPar [itggx] [https://youtu.be/kAxdK-GsVzA]
 
-20. ``6.68`` **H@Rd R3Set // V2.45** by Cybi [wgkte] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
+20. ``6.69`` **Arcturus** by ALEXLS8 [tkyhn] [https://www.youtube.com/watch?v=-9LW8Vx-FHg]
 
-21. ``6.67`` **[!] - Ascension to Heaven -** by MaxingPar [N/A] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=973]
+21. ``6.68`` **H@Rd R3Set // V2.45** by Cybi [wgkte] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
 
-22. ``6.66`` **The Cave** by kanokpoldos_0987 [jkjrp] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1451]
+22. ``6.67`` **[!] - Ascension to Heaven -** by MaxingPar [N/A] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=973]
 
-23. ``6.64`` **Halcyon || Orange Sector 2.0** by Literal_Cow [dvnjw] [https://www.youtube.com/watch?v=lnufzxl7BBw]
+23. ``6.66`` **The Cave** by kanokpoldos_0987 [jkjrp] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1451]
 
-24. ``6.638`` **[!] Hyxla Factory** by AlexGamerPro347 [N/A] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
+24. ``6.64`` **Halcyon || Orange Sector 2.0** by Literal_Cow [dvnjw] [https://www.youtube.com/watch?v=lnufzxl7BBw]
 
-25. ``6.635`` **Brick Yellow** by robloxpies [gpuju] [https://youtu.be/e2YvIr_5tS8]
+25. ``6.63`` **[!] Hyxla Factory** by AlexGamerPro347 [N/A] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
 
 26. ``6.62`` **Overflowing Industry** by Energy Team [mjqiq] [https://www.youtube.com/watch?v=TXXfe_smho4] 
 
@@ -166,7 +166,7 @@
 
 80. ``6.163`` **Aurelius: REIMAGINED** by Zappy [ipcfc] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1197]
 
-81. ``6.161`` **Unstable Presidium** by FabricioPF [N/A] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=429]
+81. ``6.161`` **Unstable Presidium** by FabricioPF [jvtqp] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=429]
 
 82. ``6.158`` **Monoscape** by Enszo [mono2] [https://youtu.be/pKn2HOT_06g?feature=shared&t=942]
 

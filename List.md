@@ -36,21 +36,21 @@
 
 15. ``6.77`` **Brick Yellow** by robloxpies [gpuju] [https://youtu.be/e2YvIr_5tS8]
 
-16. ``6.76`` **Kneeling Shore** by tac_taillike [kneeling] [https://www.youtube.com/watch?v=fBUWn1LRjuU]
+16. ``6.75`` **Tempestuous Blizzard** by Zerix [gtgnk] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4782]
 
-17. ``6.75`` **Tempestuous Blizzard** by Zerix [gtgnk] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4782]
+17. ``6.73`` **Vivid** by Enszo [vivid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4035]
 
-18. ``6.73`` **Vivid** by Enszo [vivid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4035]
+18. ``6.71`` **NightTheater** by MaxingPar [itggx] [https://youtu.be/kAxdK-GsVzA]
 
-19. ``6.71`` **NightTheater** by MaxingPar [itggx] [https://youtu.be/kAxdK-GsVzA]
+19. ``6.69`` **Arcturus** by ALEXLS8 [tkyhn] [https://www.youtube.com/watch?v=-9LW8Vx-FHg]
 
-20. ``6.69`` **Arcturus** by ALEXLS8 [tkyhn] [https://www.youtube.com/watch?v=-9LW8Vx-FHg]
+20. ``6.68`` **H@Rd R3Set // V2.45** by Cybi [wgkte] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
 
-21. ``6.68`` **H@Rd R3Set // V2.45** by Cybi [wgkte] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
+21. ``6.67`` **[!] - Ascension to Heaven -** by MaxingPar [N/A] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=973]
 
-22. ``6.67`` **[!] - Ascension to Heaven -** by MaxingPar [N/A] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=973]
+22. ``6.66`` **The Cave** by kanokpoldos_0987 [jkjrp] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1451]
 
-23. ``6.66`` **The Cave** by kanokpoldos_0987 [jkjrp] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1451]
+23. ``6.65`` **Kneeling Shore** by tac_taillike [kneeling] [https://www.youtube.com/watch?v=fBUWn1LRjuU]
 
 24. ``6.64`` **Halcyon || Orange Sector 2.0** by Literal_Cow [dvnjw] [https://www.youtube.com/watch?v=lnufzxl7BBw]
 

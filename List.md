@@ -120,13 +120,13 @@
 
 57. ``6.334`` **Interminence** by THE MODIFIED [crjhh] [https://www.youtube.com/watch?v=zNZHrSKq4Ek]
 
-58. ``6.330`` **Golden Zephyr** by Elemental_geast [golden] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3222]
+58. ``6.330`` **Aurithus** by xCoolioPlayz619x [tvboc] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=2912] 
 
-59. ``6.32`` **Nuclear Radiation Meltdown** by ALEXLS8 [N/A] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=565]
+59. ``6.32`` **Ominosity** by TechnocraticAviation [ntyze] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1307] 
 
-60. ``6.31`` **Aurithus** by xCoolioPlayz619x [tvboc] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=2912]
+60. ``6.31`` **Nuclear Radiation Meltdown** by ALEXLS8 [N/A] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=565] 
 
-61. ``6.307`` **Ominosity** by TechnocraticAviation [ntyze] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1307]
+61. ``6.30`` **Golden Zephyr** by Elemental_geast [golden] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3222]
 
 62. ``6.295`` **Complex Sideline** by its_ven1 [svszo] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=334]
 

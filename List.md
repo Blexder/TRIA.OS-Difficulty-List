@@ -110,7 +110,7 @@
 
 52. ``6.383`` **Electron Memories** by Ethan76167 [em2] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2418]
 
-53. ``6.369`` **Alderophere** by poataday134 [aarvk] [https://www.youtube.com/watch?v=79sZG-LDVJo]
+53. ``6.36`` **Alderophere** by poataday134 [aarvk] [https://www.youtube.com/watch?v=79sZG-LDVJo]
 
 54. ``6.35`` **MineStrike** by aqua2power [N/A] [https://youtu.be/XX0bqPV7gts?feature=shared&t=126]
 

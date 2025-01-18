@@ -128,7 +128,7 @@
 
 61. ``6.30`` **Golden Zephyr** by Elemental_geast [golden] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3222]
 
-62. ``6.295`` **Complex Sideline** by its_ven1 [svszo] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=334]
+62. ``6.29`` **Complex Sideline** by its_ven1 [svszo] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=334]
 
 63. ``6.288`` **Sector-Alpha** by ramzfgg [ulmwz] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2319]
 

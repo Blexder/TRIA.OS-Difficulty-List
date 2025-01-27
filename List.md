@@ -78,23 +78,25 @@
 
 36. ``6.555`` **GameBoy** by Co_rdinatE [xzeuo] [https://www.youtube.com/watch?v=-7bxRZzsKLA]
 
-37. ``6.550`` **Yatagarasu** by EpicaLanced [N/A] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3217]
+37. ``6.552`` **Cubic Redemption** by MalachiLeapYear [fwevu] [https://youtu.be/OfdEEOZ4kiw]
 
-38. ``6.54`` **Cyber Cypher** by its_ven1 [dmkzo] [https://www.youtube.com/watch?v=6q77x3HHPZo]
+38. ``6.550`` **Yatagarasu** by EpicaLanced [N/A] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3217]
 
-39. ``6.53`` **Solar** by fippy505 [txoku] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=749]
+39. ``6.54`` **Cyber Cypher** by its_ven1 [dmkzo] [https://www.youtube.com/watch?v=6q77x3HHPZo]
 
-40. ``6.52`` **Phantasm** by SkullerySkuffling [nqkzt] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2997]
+40. ``6.53`` **Solar** by fippy505 [txoku] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=749]
 
-41. ``6.51`` **Fractured Memories** by ALEXLS8 [rrpfn] [https://www.youtube.com/watch?v=m0OGZO3rLFQ]
+41. ``6.52`` **Phantasm** by SkullerySkuffling [nqkzt] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2997]
 
-42. ``6.50`` **Cubic Ruins** by not_grif [cubicruins] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3402]
+42. ``6.51`` **Fractured Memories** by ALEXLS8 [rrpfn] [https://www.youtube.com/watch?v=m0OGZO3rLFQ]
 
-43. ``6.49`` **Xion** by shaimoons [N/A] [https://www.youtube.com/watch?v=dW_UuBHAAXo]
+43. ``6.50`` **Cubic Ruins** by not_grif [cubicruins] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3402]
 
-44. ``6.48`` **Anhedonia_PAST** by MaxingPar [N/A] [https://youtu.be/GRKKlsO12BU]
+44. ``6.49`` **Xion** by shaimoons [N/A] [https://www.youtube.com/watch?v=dW_UuBHAAXo]
 
-45. ``6.46`` **The Wood** by kanokpoldos_0987 [ldtpz] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=17]
+45. ``6.48`` **Anhedonia_PAST** by MaxingPar [N/A] [https://youtu.be/GRKKlsO12BU]
+
+46. ``6.46`` **The Wood** by kanokpoldos_0987 [ldtpz] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=17]
 
 47. ``6.44`` **Chilled Complex** by EpiccGamerBoy3 [gunpv] [https://youtu.be/mH0q4axmCK4]
 

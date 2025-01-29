@@ -60,13 +60,13 @@
 
 27. ``6.62`` **Overflowing Industry** by Energy Team [mjqiq] [https://www.youtube.com/watch?v=TXXfe_smho4] 
 
-28. ``6.61`` **Beyond** by its_ven1 [zqdnb] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=656]
+28. ``6.61`` **BOLTZONE: Industrial District 88** by dripperoniz [boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
 
-29. ``6.598`` **Cubic Void** by not_grif [cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652]
+29. ``6.59`` **Cubic Void** by not_grif [cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652]
 
-30. ``6.595`` **BOLTZONE: Industrial District 88** by dripperoniz [boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
+30. ``6.587`` **Magmatic Cove** by XxgamerkidbroxX [vdcnd] [https://www.youtube.com/watch?v=Ez02FkG2dGA]
 
-31. ``6.58`` **Magmatic Cove** by XxgamerkidbroxX [vdcnd] [https://www.youtube.com/watch?v=Ez02FkG2dGA]
+31. ``6.585`` **Beyond** by its_ven1 [zqdnb] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=656]
 
 32. ``6.57`` **White Void** by CN08_ [mbksz] [https://www.youtube.com/watch?v=bvZcKahBGwQ] 
 

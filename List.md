@@ -34,9 +34,9 @@
 
 14. ``6.84`` **Brick Yellow** by SkullerySkuffling [gpuju] [https://youtu.be/e2YvIr_5tS8]
 
-15. ``6.82`` **Asterios** by Nightlife Devs [mrvpr] [https://youtu.be/yB6uWew7YrE] 
+15. ``6.83`` **LAYERS** by Enszo, TWB_92 [layers] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4912]
 
-16. ``6.80`` **LAYERS** by Enszo, TWB_92 [layers] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4912]
+16. ``6.79`` **Asterios** by Nightlife Devs [mrvpr] [https://youtu.be/yB6uWew7YrE]
 
 17. ``6.77`` **Virus** by Rayhan [hrgow] [https://youtu.be/Aksg2Q2XMsw?feature=shared]
 

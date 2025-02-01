@@ -32,9 +32,9 @@
 
 13. ``6.86`` **Backburner** by Accurate_Abilities [hznqj] [https://www.youtube.com/watch?v=aAQp3xQmvkk]
 
-14. ``6.83`` **LAYERS** by Enszo, TWB_92 [layers] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4912]
+14. ``6.84`` **Brick Yellow** by SkullerySkuffling [gpuju] [https://youtu.be/e2YvIr_5tS8]
 
-15. ``6.81`` **Brick Yellow** by SkullerySkuffling [gpuju] [https://youtu.be/e2YvIr_5tS8]
+15. ``6.83`` **LAYERS** by Enszo, TWB_92 [layers] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4912]
 
 16. ``6.77`` **Virus** by Rayhan [hrgow] [https://youtu.be/Aksg2Q2XMsw?feature=shared]
 

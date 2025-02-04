@@ -132,31 +132,31 @@
 
 63. ``6.330`` **Aurithus** by xCoolioPlayz619x [tvboc] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=2912] 
 
-64. ``6.32`` **Ominosity** by TechnocraticAviation [ntyze] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1307] 
+64. ``6.32`` **Ominosity** by TechnocraticAviation [ntyze] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1307]
 
-65. ``6.31`` **Nuclear Radiation Meltdown** by ALEXLS8 [N/A] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=565] 
+65. ``6.318`` **Unstable Presidium** by FabricioPF [jvtqp] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=429]
 
-66. ``6.30`` **Golden Zephyr** by Elemental_geast [golden] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3222]
+66. ``6.312`` **Nuclear Radiation Meltdown** by ALEXLS8 [N/A] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=565] 
 
-67. ``6.29`` **Complex Sideline** by its_ven1 [svszo] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=334]
+67. ``6.30`` **Golden Zephyr** by Elemental_geast [golden] [https://youtu.be/DdNVdA2EjPU?feature=shared&t=3222]
 
-68. ``6.288`` **Sector-Alpha** by ramzfgg [ulmwz] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2319]
+68. ``6.29`` **Complex Sideline** by its_ven1 [svszo] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=334]
 
-69. ``6.281`` **Epsilon** by its_ven1 [yslsa] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=282]
+69. ``6.288`` **Sector-Alpha** by ramzfgg [ulmwz] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2319]
 
-70. ``6.27`` **Atreux V1.5** by ControllerKazz [hvmob] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=291]
+70. ``6.281`` **Epsilon** by its_ven1 [yslsa] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=282]
 
-71. ``6.26`` **Gotten** by BetaDev9 [N/A] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=982]
+71. ``6.27`` **Atreux V1.5** by ControllerKazz [hvmob] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=291]
 
-72. ``6.25`` **Electrical Malfunction** by Ethan76167 [em1] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1903]
+72. ``6.26`` **Gotten** by BetaDev9 [N/A] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=982]
 
-73. ``6.24`` **Decayed Mineshaft** by TechnocraticAviation [rqchc] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2190]
+73. ``6.25`` **Electrical Malfunction** by Ethan76167 [em1] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1903]
 
-74. ``6.22`` **Unstable Presidium** by FabricioPF [jvtqp] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=429]
+74. ``6.24`` **Decayed Mineshaft** by TechnocraticAviation [rqchc] [https://youtu.be/pKn2HOT_06g?feature=shared&t=2190]
 
-75. ``6.217`` **Cubic Mechanism** by MalachiLeapYear [nabhc] [https://www.youtube.com/watch?v=nF50EMHmBEA]
+75. ``6.22`` **Cubic Mechanism** by MalachiLeapYear [nabhc] [https://www.youtube.com/watch?v=nF50EMHmBEA]
 
-76. ``6.216`` **Crystalline Devastation** by CN08_ [N/A] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=1087]
+76. ``6.21`` **Crystalline Devastation** by CN08_ [N/A] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=1087]
 
 77. ``6.207`` **Interstellar Havoc** by InconsistentSolstice [N/A] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1166]
 

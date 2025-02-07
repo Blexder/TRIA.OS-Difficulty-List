@@ -30,9 +30,9 @@
 
 12. ``6.89`` **Derelict Industry** by CN08_ [kshjp] [https://www.youtube.com/watch?v=MnpzU31sC2A]
 
-13. ``6.86`` **Backburner** by Accurate_Abilities [hznqj] [https://www.youtube.com/watch?v=aAQp3xQmvkk]
+13. ``6.87`` **Brick Yellow** by SkullerySkuffling [gpuju] [https://youtu.be/e2YvIr_5tS8]
 
-14. ``6.84`` **Brick Yellow** by SkullerySkuffling [gpuju] [https://youtu.be/e2YvIr_5tS8]
+14. ``6.85`` **Backburner** by Accurate_Abilities [hznqj] [https://www.youtube.com/watch?v=aAQp3xQmvkk]
 
 15. ``6.82`` **Asterios** by Nightlife Devs [mrvpr] [https://youtu.be/yB6uWew7YrE]
 
@@ -174,15 +174,15 @@
 
 84. ``6.181`` **Ikarus** by EduardoSO [N/A] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1692]
 
-85. ``6.17`` **Mandragora 3.0** by alex28901 [rxzwj] [https://www.youtube.com/watch?v=ZUFLs-8feM4] 
+85. ``6.178`` **Crystalize Industry** by KitsunTori [wvdlq] [https://youtu.be/frOP-YDeHdk]
 
-86. ``6.167`` **Aurelius** by Svilar [aurelius] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1788]
+86. ``6.170`` **Mandragora 3.0** by alex28901 [rxzwj] [https://www.youtube.com/watch?v=ZUFLs-8feM4] 
 
-87. ``6.163`` **Aurelius: REIMAGINED** by Zappy [ipcfc] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1197]
+87. ``6.167`` **Aurelius** by Svilar [aurelius] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1788]
 
-88. ``6.155`` **Monoscape** by Enszo [mono2] [https://youtu.be/pKn2HOT_06g?feature=shared&t=942]
+88. ``6.163`` **Aurelius: REIMAGINED** by Zappy [ipcfc] [https://youtu.be/pKn2HOT_06g?feature=shared&t=1197]
 
-89. ``6.152`` **Crystalize Industry** by KitsunTori [wvdlq] [https://youtu.be/frOP-YDeHdk]
+89. ``6.15`` **Monoscape** by Enszo [mono2] [https://youtu.be/pKn2HOT_06g?feature=shared&t=942]
 
 90. ``6.14`` **Corroded Industries** by Robinpika87 [N/A] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=157]
 

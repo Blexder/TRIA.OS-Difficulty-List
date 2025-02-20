@@ -52,37 +52,37 @@
 
 24. ``6.68`` **[!] - Ascension to Heaven -** by MaxingPar [N/A] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=973]
 
-25. ``6.66`` **The Cave** by kanokpoldos_0987 [jkjrp] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1451]
+25. ``6.67`` **Cubic Redemption** by MalachiLeapYear [fwevu] [https://youtu.be/OfdEEOZ4kiw]
 
-26. ``6.65`` **Kneeling Shore** by tac_taillike [kneeling] [https://www.youtube.com/watch?v=fBUWn1LRjuU]
+26. ``6.66`` **The Cave** by kanokpoldos_0987 [jkjrp] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1451]
 
-27. ``6.64`` **Halcyon || Orange Sector 2.0** by Literal_Cow [dvnjw] [https://www.youtube.com/watch?v=lnufzxl7BBw]
+27. ``6.65`` **Kneeling Shore** by tac_taillike [kneeling] [https://www.youtube.com/watch?v=fBUWn1LRjuU]
 
-28. ``6.63`` **[!] Hyxla Factory** by AlexGamerPro347 [N/A] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
+28. ``6.64`` **Halcyon || Orange Sector 2.0** by Literal_Cow [dvnjw] [https://www.youtube.com/watch?v=lnufzxl7BBw]
 
-29. ``6.62`` **Overflowing Industry** by Energy Team [mjqiq] [https://www.youtube.com/watch?v=TXXfe_smho4] 
+29. ``6.63`` **[!] Hyxla Factory** by AlexGamerPro347 [N/A] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
 
-30. ``6.61`` **BOLTZONE: Industrial District 88** by dripperoniz [boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
+30. ``6.62`` **Overflowing Industry** by Energy Team [mjqiq] [https://www.youtube.com/watch?v=TXXfe_smho4] 
 
-31. ``6.59`` **Cubic Void** by not_grif [cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652]
+31. ``6.61`` **BOLTZONE: Industrial District 88** by dripperoniz [boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
 
-32. ``6.587`` **Magmatic Cove** by XxgamerkidbroxX [vdcnd] [https://www.youtube.com/watch?v=Ez02FkG2dGA]
+32. ``6.59`` **Cubic Void** by not_grif [cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652]
 
-33. ``6.588`` **Anhedonia_PAST** by MaxingPar [N/A] [https://youtu.be/GRKKlsO12BU]
+33. ``6.587`` **Magmatic Cove** by XxgamerkidbroxX [vdcnd] [https://www.youtube.com/watch?v=Ez02FkG2dGA]
 
-34. ``6.585`` **Beyond** by its_ven1 [zqdnb] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=656]
+34. ``6.588`` **Anhedonia_PAST** by MaxingPar [N/A] [https://youtu.be/GRKKlsO12BU]
 
-35. ``6.57`` **White Void** by CN08_ [mbksz] [https://www.youtube.com/watch?v=bvZcKahBGwQ]
+35. ``6.585`` **Beyond** by its_ven1 [zqdnb] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=656]
 
-36. ``6.56`` **Drainpipe Stream** by WhyDoIHaveNoUserName [N/A] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3771]
+36. ``6.57`` **White Void** by CN08_ [mbksz] [https://www.youtube.com/watch?v=bvZcKahBGwQ]
 
-37. ``6.558`` **Crystallized** by CN08_ [N/A] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3518]
+37. ``6.56`` **Drainpipe Stream** by WhyDoIHaveNoUserName [N/A] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3771]
 
-38. ``6.557`` **Thanatos V2** by ssgam_eR [stnst] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=438]
+38. ``6.558`` **Crystallized** by CN08_ [N/A] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3518]
 
-39. ``6.555`` **GameBoy** by Co_rdinatE [xzeuo] [https://www.youtube.com/watch?v=-7bxRZzsKLA]
+39. ``6.557`` **Thanatos V2** by ssgam_eR [stnst] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=438]
 
-40. ``6.552`` **Cubic Redemption** by MalachiLeapYear [fwevu] [https://youtu.be/OfdEEOZ4kiw]
+40. ``6.555`` **GameBoy** by Co_rdinatE [xzeuo] [https://www.youtube.com/watch?v=-7bxRZzsKLA]
 
 42. ``6.550`` **Cyber Cypher** by its_ven1 [dmkzo] [https://www.youtube.com/watch?v=6q77x3HHPZo]
 

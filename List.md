@@ -8,9 +8,9 @@
 
 3. ``7.32`` **Ascension to Heaven** by S_D1am0nd [ath] [https://www.youtube.com/watch?v=milgbW9nBEI]
 
-4. ``7.16`` **Hyper Speed** by Marchionne, alex28901 & MalachiLeapYear [hmfaf] [https://www.youtube.com/watch?v=p3FuGndl5bM]
+4. ``7.18`` **Asterios Legacy** by S_D1am0nd [ztczm] [https://youtu.be/jBRnuFRWH_c]
 
-5. ``7.13`` **Asterios Legacy** by S_D1am0nd [ztczm] [https://youtu.be/jBRnuFRWH_c]
+5. ``7.16`` **Hyper Speed** by Marchionne, alex28901 & MalachiLeapYear [hmfaf] [https://www.youtube.com/watch?v=p3FuGndl5bM]
 
 6. ``7.05`` **EndZone** by Nightlife Devs [lqcgs] [https://youtu.be/pKn2HOT_06g?feature=shared&t=5644]
 

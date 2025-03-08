@@ -24,17 +24,17 @@
 
 10. ``6.97`` **Rooms 2** by The Rooms Official Devs [rkflb] [https://youtu.be/A_oGAPVIveE?feature=shared&t=252]
 
-11. ``6.94`` **Alternate Dimension** by SkullerySkuffling [mbnwh] [https://youtu.be/v0wCC7jWsMY]
+11. ``6.93`` **Alternate Dimension** by SkullerySkuffling [mbnwh] [https://youtu.be/v0wCC7jWsMY]
 
-12. ``6.91`` **Complete Control** by c_ha0 [vpnuj] [https://youtu.be/sW7-zfkjmO4]
+12. ``6.90`` **Eternal Punishment** by midlecs [N/A] [https://www.youtube.com/watch?v=CIuuBcTF4K4]
 
-13. ``6.90`` **Eternal Punishment** by midlecs [N/A] [https://www.youtube.com/watch?v=CIuuBcTF4K4]
+13. ``6.88`` **Derelict Industry** by CN08_ [kshjp] [https://www.youtube.com/watch?v=MnpzU31sC2A]
 
-14. ``6.88`` **Derelict Industry** by CN08_ [kshjp] [https://www.youtube.com/watch?v=MnpzU31sC2A]
+14. ``6.86`` **Backburner** by Accurate_Abilities [hznqj] [https://www.youtube.com/watch?v=aAQp3xQmvkk]
 
-15. ``6.86`` **Backburner** by Accurate_Abilities [hznqj] [https://www.youtube.com/watch?v=aAQp3xQmvkk]
+15. ``6.84`` **Brick Yellow** by robloxpies [gpuju] [https://youtu.be/e2YvIr_5tS8]
 
-16. ``6.84`` **Brick Yellow** by robloxpies [gpuju] [https://youtu.be/e2YvIr_5tS8]
+16. ``6.83`` **Complete Control** by c_ha0 [vpnuj] [https://youtu.be/sW7-zfkjmO4]
 
 17. ``6.82`` **Asterios** by Nightlife Devs [mrvpr] [https://youtu.be/yB6uWew7YrE]
 

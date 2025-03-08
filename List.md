@@ -24,65 +24,67 @@
 
 10. ``6.97`` **Rooms 2** by The Rooms Official Devs [rkflb] [https://youtu.be/A_oGAPVIveE?feature=shared&t=252]
 
-11. ``6.92`` **Alternate Dimension** by SkullerySkuffling [mbnwh] [https://youtu.be/v0wCC7jWsMY]
+11. ``6.94`` **Alternate Dimension** by SkullerySkuffling [mbnwh] [https://youtu.be/v0wCC7jWsMY]
 
-12. ``6.90`` **Eternal Punishment** by midlecs [N/A] [https://www.youtube.com/watch?v=CIuuBcTF4K4]
+12. ``6.91`` **Complete Control** by c_ha0 [vpnuj] [https://youtu.be/sW7-zfkjmO4]
 
-13. ``6.88`` **Derelict Industry** by CN08_ [kshjp] [https://www.youtube.com/watch?v=MnpzU31sC2A]
+13. ``6.90`` **Eternal Punishment** by midlecs [N/A] [https://www.youtube.com/watch?v=CIuuBcTF4K4]
 
-14. ``6.86`` **Backburner** by Accurate_Abilities [hznqj] [https://www.youtube.com/watch?v=aAQp3xQmvkk]
+14. ``6.88`` **Derelict Industry** by CN08_ [kshjp] [https://www.youtube.com/watch?v=MnpzU31sC2A]
 
-15. ``6.84`` **Brick Yellow** by robloxpies [gpuju] [https://youtu.be/e2YvIr_5tS8]
+15. ``6.86`` **Backburner** by Accurate_Abilities [hznqj] [https://www.youtube.com/watch?v=aAQp3xQmvkk]
 
-16. ``6.82`` **Asterios** by Nightlife Devs [mrvpr] [https://youtu.be/yB6uWew7YrE]
+16. ``6.84`` **Brick Yellow** by robloxpies [gpuju] [https://youtu.be/e2YvIr_5tS8]
 
-17. ``6.80`` **LAYERS** by Enszo, TWB_92 [layers] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4912]
+17. ``6.82`` **Asterios** by Nightlife Devs [mrvpr] [https://youtu.be/yB6uWew7YrE]
 
-18. ``6.77`` **Virus** by Rayhan [hrgow] [https://youtu.be/Aksg2Q2XMsw?feature=shared]
+18. ``6.80`` **LAYERS** by Enszo, TWB_92 [layers] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4912]
 
-19. ``6.75`` **Vivid** by Enszo [vivid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4035]
+19. ``6.77`` **Virus** by Rayhan [hrgow] [https://youtu.be/Aksg2Q2XMsw?feature=shared]
 
-20. ``6.73`` **Tempestuous Blizzard** by Zerix [gtgnk] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4782]
+20. ``6.75`` **Vivid** by Enszo [vivid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4035]
 
-21. ``6.72`` **Arcturus** by ALEXLS8 [tkyhn] [https://www.youtube.com/watch?v=-9LW8Vx-FHg]
+21. ``6.73`` **Tempestuous Blizzard** by Zerix [gtgnk] [https://youtu.be/pKn2HOT_06g?feature=shared&t=4782]
 
-22. ``6.71`` **NightTheater** by MaxingPar [itggx] [https://youtu.be/kAxdK-GsVzA]
+22. ``6.72`` **Arcturus** by ALEXLS8 [tkyhn] [https://www.youtube.com/watch?v=-9LW8Vx-FHg]
 
-23. ``6.69`` **H@Rd R3Set // V2.45** by Cybi [wgkte] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
+23. ``6.71`` **NightTheater** by MaxingPar [itggx] [https://youtu.be/kAxdK-GsVzA]
 
-24. ``6.68`` **[!] - Ascension to Heaven -** by MaxingPar [N/A] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=973]
+24. ``6.69`` **H@Rd R3Set // V2.45** by Cybi [wgkte] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
 
-25. ``6.67`` **Cubic Redemption** by MalachiLeapYear [fwevu] [https://youtu.be/OfdEEOZ4kiw]
+25. ``6.68`` **[!] - Ascension to Heaven -** by MaxingPar [N/A] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=973]
 
-26. ``6.66`` **The Cave** by kanokpoldos_0987 [jkjrp] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1451]
+26. ``6.67`` **Cubic Redemption** by MalachiLeapYear [fwevu] [https://youtu.be/OfdEEOZ4kiw]
 
-27. ``6.65`` **Kneeling Shore** by tac_taillike [kneeling] [https://www.youtube.com/watch?v=fBUWn1LRjuU]
+27. ``6.66`` **The Cave** by kanokpoldos_0987 [jkjrp] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1451]
 
-28. ``6.64`` **Halcyon || Orange Sector 2.0** by Literal_Cow [dvnjw] [https://www.youtube.com/watch?v=lnufzxl7BBw]
+28. ``6.65`` **Kneeling Shore** by tac_taillike [kneeling] [https://www.youtube.com/watch?v=fBUWn1LRjuU]
 
-29. ``6.63`` **[!] Hyxla Factory** by AlexGamerPro347 [N/A] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
+29. ``6.64`` **Halcyon || Orange Sector 2.0** by Literal_Cow [dvnjw] [https://www.youtube.com/watch?v=lnufzxl7BBw]
 
-30. ``6.62`` **Overflowing Industry** by Energy Team [mjqiq] [https://www.youtube.com/watch?v=TXXfe_smho4] 
+30. ``6.63`` **[!] Hyxla Factory** by AlexGamerPro347 [N/A] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
 
-31. ``6.61`` **BOLTZONE: Industrial District 88** by dripperoniz [boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
+31. ``6.62`` **Overflowing Industry** by Energy Team [mjqiq] [https://www.youtube.com/watch?v=TXXfe_smho4] 
 
-32. ``6.59`` **Cubic Void** by not_grif [cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652]
+32. ``6.61`` **BOLTZONE: Industrial District 88** by dripperoniz [boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
 
-33. ``6.587`` **Magmatic Cove** by XxgamerkidbroxX [vdcnd] [https://www.youtube.com/watch?v=Ez02FkG2dGA]
+33. ``6.59`` **Cubic Void** by not_grif [cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652]
 
-34. ``6.588`` **Anhedonia_PAST** by MaxingPar [N/A] [https://youtu.be/GRKKlsO12BU]
+34. ``6.587`` **Magmatic Cove** by XxgamerkidbroxX [vdcnd] [https://www.youtube.com/watch?v=Ez02FkG2dGA]
 
-35. ``6.585`` **Beyond** by its_ven1 [zqdnb] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=656]
+35. ``6.588`` **Anhedonia_PAST** by MaxingPar [N/A] [https://youtu.be/GRKKlsO12BU]
 
-36. ``6.57`` **White Void** by CN08_ [mbksz] [https://www.youtube.com/watch?v=bvZcKahBGwQ]
+36. ``6.585`` **Beyond** by its_ven1 [zqdnb] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=656]
 
-37. ``6.56`` **Drainpipe Stream** by WhyDoIHaveNoUserName [N/A] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3771]
+37. ``6.57`` **White Void** by CN08_ [mbksz] [https://www.youtube.com/watch?v=bvZcKahBGwQ]
 
-38. ``6.558`` **Crystallized** by CN08_ [N/A] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3518]
+38. ``6.56`` **Drainpipe Stream** by WhyDoIHaveNoUserName [N/A] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3771]
 
-39. ``6.557`` **Thanatos V2** by ssgam_eR [stnst] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=438]
+39. ``6.558`` **Crystallized** by CN08_ [N/A] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3518]
 
-40. ``6.555`` **GameBoy** by Co_rdinatE [xzeuo] [https://www.youtube.com/watch?v=-7bxRZzsKLA]
+40. ``6.557`` **Thanatos V2** by ssgam_eR [stnst] [https://youtu.be/JqSGbTlnqDQ?feature=shared&t=438]
+
+41. ``6.555`` **GameBoy** by Co_rdinatE [xzeuo] [https://www.youtube.com/watch?v=-7bxRZzsKLA]
 
 42. ``6.550`` **Cyber Cypher** by its_ven1 [dmkzo] [https://www.youtube.com/watch?v=6q77x3HHPZo]
 

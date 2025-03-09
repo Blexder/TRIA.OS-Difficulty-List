@@ -52,25 +52,25 @@
 
 24. ``6.69`` **H@Rd R3Set // V2.45** by Cybi [wgkte] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
 
-25. ``6.68`` **[!] - Ascension to Heaven -** by MaxingPar [N/A] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=973]
+25. ``6.688`` **[!] - Ascension to Heaven -** by MaxingPar [N/A] [https://youtu.be/_F-saLZ-EHE?feature=shared&t=973]
 
-26. ``6.67`` **Cubic Redemption** by MalachiLeapYear [fwevu] [https://youtu.be/OfdEEOZ4kiw]
+26. ``6.682`` **Magmatic Cove** by XxgamerkidbroxX [vdcnd] [https://www.youtube.com/watch?v=Ez02FkG2dGA]
 
-27. ``6.66`` **The Cave** by kanokpoldos_0987 [jkjrp] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1451]
+27. ``6.67`` **Cubic Redemption** by MalachiLeapYear [fwevu] [https://youtu.be/OfdEEOZ4kiw]
 
-28. ``6.65`` **Kneeling Shore** by tac_taillike [kneeling] [https://www.youtube.com/watch?v=fBUWn1LRjuU]
+28. ``6.66`` **The Cave** by kanokpoldos_0987 [jkjrp] [https://youtu.be/kSKn7HBr4uI?feature=shared&t=1451]
 
-29. ``6.64`` **Halcyon || Orange Sector 2.0** by Literal_Cow [dvnjw] [https://www.youtube.com/watch?v=lnufzxl7BBw]
+29. ``6.65`` **Kneeling Shore** by tac_taillike [kneeling] [https://www.youtube.com/watch?v=fBUWn1LRjuU]
 
-30. ``6.63`` **[!] Hyxla Factory** by AlexGamerPro347 [N/A] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
+30. ``6.64`` **Halcyon || Orange Sector 2.0** by Literal_Cow [dvnjw] [https://www.youtube.com/watch?v=lnufzxl7BBw]
 
-31. ``6.62`` **Overflowing Industry** by Energy Team [mjqiq] [https://www.youtube.com/watch?v=TXXfe_smho4] 
+31. ``6.63`` **[!] Hyxla Factory** by AlexGamerPro347 [N/A] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
 
-32. ``6.61`` **BOLTZONE: Industrial District 88** by dripperoniz [boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
+32. ``6.62`` **Overflowing Industry** by Energy Team [mjqiq] [https://www.youtube.com/watch?v=TXXfe_smho4] 
 
-33. ``6.59`` **Cubic Void** by not_grif [cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652]
+33. ``6.61`` **BOLTZONE: Industrial District 88** by dripperoniz [boltzone] [https://www.youtube.com/watch?v=7k4ioDjNXAI]
 
-34. ``6.587`` **Magmatic Cove** by XxgamerkidbroxX [vdcnd] [https://www.youtube.com/watch?v=Ez02FkG2dGA]
+34. ``6.59`` **Cubic Void** by not_grif [cubicvoid] [https://youtu.be/pKn2HOT_06g?feature=shared&t=3652]
 
 35. ``6.588`` **Anhedonia_PAST** by MaxingPar [N/A] [https://youtu.be/GRKKlsO12BU]
 

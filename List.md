@@ -1,3 +1,5 @@
+**_DISCONTINUED_**
+
 > **Blexder's Personal Difficulty List**
 
 > **Eternal**
